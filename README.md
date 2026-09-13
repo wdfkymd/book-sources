@@ -7,7 +7,7 @@ Legado（阅读 App）书源。
 一次导入搬山人、爱丽丝、第一版主、爱下电子书。之后如果有单源更新，重新导一遍这个文件即可。
 
 ```
-https://cdn.jsdelivr.net/gh/wdfkymd/book-sources(@c0904dd0c75dd228338d22e7618f839c43ee2856/)all.json
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@c0904dd0c75dd228338d22e7618f839c43ee2856/all.json
 ```
 
 ## 爱下电子书
@@ -19,7 +19,7 @@ https://cdn.jsdelivr.net/gh/wdfkymd/book-sources(@c0904dd0c75dd228338d22e7618f83
 ### 网络导入
 
 ```
-https://cdn.jsdelivr.net/gh/wdfkymd/book-sources(@c0904dd0c75dd228338d22e7618f839c43ee2856/)ixdzs.json
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@c0904dd0c75dd228338d22e7618f839c43ee2856/ixdzs.json
 ```
 
 ## 搬山人小说网
