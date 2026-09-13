@@ -2,6 +2,14 @@
 
 Legado（阅读 App）书源。
 
+## 三源合一导入（推荐）
+
+```
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@f9e2558af0cc12cab40babca3e3adfab70eda241/all.json
+```
+
+一次导入搬山人、爱丽丝、第一版主三个源。之后如果有单源更新，重新导一遍这个文件即可。
+
 ## 搬山人小说网
 
 - 站点：https://www.banshanren.com
