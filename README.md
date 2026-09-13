@@ -38,7 +38,5 @@ https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@01f2c79f54740b1848f1fabfc42d17d
 ### 网络导入
 
 ```
-https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@PIN_ALICESW/alicesw.json
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@f9e8b7517ebb620644d6e2f44552223b26b50cd7/alicesw.json
 ```
-
-（把 `PIN_ALICESW` 换成下面给你的实际 commit hash。）
