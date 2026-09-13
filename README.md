@@ -28,3 +28,17 @@ https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@01f2c79f54740b1848f1fabfc42d17d
 
 - 无封面：站方图片是 AES 加密的，App 解不了（加密已破解，但书源只能填 URL，接解密代理才有图，暂不折腾）
 - 发现页/分类页无简介：站结构如此，搜索结果和书详情页有简介
+
+## 爱丽丝书屋
+
+- 站点：https://www.alicesw.com
+- 功能：搜索、详情、目录（独立目录页）、正文、发现页（排行 + 30 个分类，支持翻页）
+- 备注：搜索无封面，封面从详情页取；目录有分卷标题行，会混在章节列表里
+
+### 网络导入
+
+```
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@PIN_ALICESW/alicesw.json
+```
+
+（把 `PIN_ALICESW` 换成下面给你的实际 commit hash。）
