@@ -50,5 +50,5 @@ https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@f9e8b7517ebb620644d6e2f44552223
 ### 网络导入
 
 ```
-https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@7157b65bb5df85a57cc76f976f97d0a349dd5142/diyibanzhu.json
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@e8eacdf26e41f07ac253e9108f3d6a9a5ef39138/diyibanzhu.json
 ```
