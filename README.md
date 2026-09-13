@@ -2,13 +2,25 @@
 
 Legado（阅读 App）书源。
 
-## 三源合一导入（推荐）
+## 四源合一导入（推荐）
+
+一次导入搬山人、爱丽丝、第一版主、爱下电子书。之后如果有单源更新，重新导一遍这个文件即可。
 
 ```
-https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@f9e2558af0cc12cab40babca3e3adfab70eda241/all.json
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@PIN_ALL/all.json
 ```
 
-一次导入搬山人、爱丽丝、第一版主三个源。之后如果有单源更新，重新导一遍这个文件即可。
+## 爱下电子书
+
+- 站点：https://ixdzs8.com
+- 功能：搜索、详情、目录（走 JSON 接口，最稳）、正文（带 token 反反爬挑战，已验证走通）、发现页（排行 + 30 个分类）
+- 备注：搜索无封面；目录分卷标题会自动跳过
+
+### 网络导入
+
+```
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@PIN_IXDZS/ixdzs.json
+```
 
 ## 搬山人小说网
 
