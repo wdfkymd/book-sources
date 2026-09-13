@@ -40,3 +40,15 @@ https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@01f2c79f54740b1848f1fabfc42d17d
 ```
 https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@f9e8b7517ebb620644d6e2f44552223b26b50cd7/alicesw.json
 ```
+
+## 第一版主
+
+- 站点：https://m.diyibanzhu5.online（WAP 站；主域名 m.diyibanzhu.me 套了 Cloudflare，用不了）
+- 功能：搜索（POST）、详情、目录、正文（下一章链）、发现页（5 个榜单）
+- 备注：无封面（WAP 站只有占位图）、无简介（列表页结构如此，详情页有简介）；目录原站是倒序，规则里已反转；镜像域名会轮换，被墙就去发布页 https://www.quan--er.com/ 找新域名，只改源里两个 URL 前缀即可
+
+### 网络导入
+
+```
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@7157b65bb5df85a57cc76f976f97d0a349dd5142/diyibanzhu.json
+```
