@@ -1,0 +1,30 @@
+# book-sources
+
+Legado（阅读 App）书源。
+
+## 搬山人小说网
+
+- 站点：https://www.banshanren.com
+- 功能：搜索、详情、目录（兼容有/无分卷两种排版）、正文、发现页（8 个分类，支持翻页）
+- 无需登录、无需付费，正文游客全开（已抽查到完结书大结局）
+
+### 一键导入
+
+```
+legado://import/bookSource?src=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwdfkymd%2Fbook-sources%4001f2c79f54740b1848f1fabfc42d17df47e20ce0%2Fbanshanren.json
+```
+
+手机浏览器打开上面这行，或转成二维码扫码。
+
+### 网络导入
+
+书源管理 → 右上角 ⋮ → 网络导入，粘贴：
+
+```
+https://cdn.jsdelivr.net/gh/wdfkymd/book-sources@01f2c79f54740b1848f1fabfc42d17df47e20ce0/banshanren.json
+```
+
+### 已知限制
+
+- 无封面：站方图片是 AES 加密的，App 解不了（加密已破解，但书源只能填 URL，接解密代理才有图，暂不折腾）
+- 发现页/分类页无简介：站结构如此，搜索结果和书详情页有简介
